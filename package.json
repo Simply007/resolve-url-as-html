@@ -1,0 +1,23 @@
+{
+  "name": "resolve-url-as-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simply007/resolve-url-as-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simply007/resolve-url-as-html/issues"
+  },
+  "homepage": "https://github.com/Simply007/resolve-url-as-html#readme",
+  "dependencies": {
+    "@kentico/kontent-delivery": "^9.0.0",
+    "rxjs": "^6.5.4"
+  }
+}
