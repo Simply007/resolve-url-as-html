@@ -1,5 +1,9 @@
 # resolve-url-as-html
 
+:warning: **Fixed in JS SDK 9.1.0**
+
+* [commit](https://github.com/Kentico/kontent-delivery-sdk-js/commit/2a787f4ec237528a55ae3df7676ed348cf502e87)
+
 ## Get started
 
 ```sh
@@ -24,3 +28,4 @@ Instead of
 <p><p>ahoj</p></p>
 <p><p>ahoj</p></p>
 ```
+
