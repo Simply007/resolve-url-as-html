@@ -8,7 +8,7 @@ const { ContentItem, DeliveryClient, TypeResolver } = require("@kentico/kontent-
           urlSlugResolver: (link, context) => {
             return {
               html: `<a href="${link.type}/${link.urlslug || link.codename}" download>${link.codename}</a>`
-              // html: `<span><a href="${link.type}/${link.urlslug || link.codename}">${link.codename}</a></span>` # works
+              // html: `<span><a href="${link.type}/${link.urlslug || link.codename}">${link.codename}</a></span>` // works
             }
           }
         });
